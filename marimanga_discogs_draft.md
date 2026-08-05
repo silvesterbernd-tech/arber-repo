@@ -26,9 +26,10 @@ recorded in 1970 in the studios of TVP (Televizioni i Prishtinës), the
 Pristina television station, and popular at the time. Session footage
 survives on the RTP Arkiv YouTube channel ("Njazi Bytyqi Grupi Marimanga –
 Arkiv 1970 TVP"); this appears to be the only surviving trace of the
-recording. A first chart and Gheg-language lyric transcription of the song
-was produced in 2026 (Besnik / Arber), the first documented transcription in
-any language.
+recording. The song was transcribed in full in 2026 — chart and complete
+Gheg text with gloss, timestamps taken off the tape (Besnik / Arber) — the
+first documented transcription in any language. The full text is attached
+to this entry's submission notes.
 
 Bytyqi is described in his koha.net obituary (5 March 2018) as "the initiator
 of pop-rock music in Kosovo"; bassist Sheki Hoxha called him "the first of
@@ -82,6 +83,56 @@ released the double LP "Nijazi Bytyqi" in 2024.
 - HRT/Zagreb may hold the 1970s video-clip broadcast and studio material
   from the Croatia sessions (Saint chasing).
 - Bytyqi's birth year: 1946 vs 1947.
+- HRT/Zagreb status (Saint, 2026-08-05): archive service exists with a
+  published price list (2024, api.hrt.hr), but there is NO public searchable
+  catalog; an FOI request for program listings returned "we only keep 45 days
+  of program data" (metadata only, not tapes). Physical archive (Prisavlje 3,
+  Zagreb) requires a specific query; pre-1990 archive is legally opening but
+  underfunded, digitization backlog estimated at ~38M EUR. Whether Zagreb
+  ever held the Marimanga tape remains UNPROVEN — treat the 1970s Croatian
+  TV broadcast as unverified.
+- NEW LEAD (Saint, 2026-08-05): Kino Lumbardhi (Prizren) posted photos of
+  Marimanga performing at the 1970 Gitariada at Kino Bistrica; Lumbardhi
+  runs a local archive and may hold more than photos. Photos could settle
+  the lineup question.
+- Bytyqi now has an Albanian Wikipedia stub (no band history) — the band
+  history gap remains open for a future article.
+
+## FULL TEXT — "VOGELUSHJA KETI" (first documented transcription)
+
+Gheg Albanian + English gloss, timestamps off the 1970 TVP tape.
+Provided by Besnik, 2026-08-04 (iLands DM). Brackets = obscured by the
+tape. Spoken section over the vamp.
+
+[0:04] Aaa, po m'lutesh o Keti — Ah, you're begging me, o Keti
+[0:09] Aaa, po m'lutesh o Keti
+[0:11] Eja ti — Come, you
+[0:14] Po m'lutesh o Keti
+[0:15] Mbrëmë më the të due — Last night you told me you love me
+[0:18] Se sot mbasdite në kopshtin tim të pres — that this afternoon I'd wait for you in my garden
+[0:21] Ajo asht një lule, era e kopshtit tim — She is a flower, the scent of my garden
+[0:24] Dhe gjithmonë krenare si dielli në agim — and always proud like the sun at dawn
+[0:26] N'agim... po m'lutesh o Keti — At dawn... you're begging me, o Keti
+[0:31] N'agim... po m'lutesh o Keti
+[0:35] Eja ti
+[1:04] Ashtu si dashni... — Just like love...
+[1:06] Trupin ta njoh, ndoshta ti s'e di — I know your body, maybe you don't know
+[1:10] Por ti je e bukur dhe plot hijeshi — But you are beautiful and full of grace
+[1:12] [Prandaj këtë këngë po ta këndoj ty] — [That's why I'm singing this song to you] (obscured)
+[1:15] N'agim... po m'lutesh o Keti (x2), Eja ti
+[1:30] Keti, të prita në agim, si çdo natë — Keti, I waited for you at dawn, like every night
+[1:36] Dhe s'do të kthehesh më, më duket se më harrove — and you won't come back; it seems you forgot me
+[1:39] Por të kisha pranë... — But I'd have you near...
+[1:42] Të shikoje lulen që kopshtin ma zbukuronte — to look at the flower that decorated my garden
+[1:45] Dhe e puthje atë me shumë dashuri — and kiss it with so much love
+[1:49] Dhe të dukej se [jeta s'kishte mbarim] — and it seemed [life had no end]
+[1:52] Por sot ajo u tha — but today it withered
+[1:54] Se s'ka kush ta ujitë [se s'ka gjallëri] — there's no one to water it, [no life in it]
+[1:57] Unë të pres, pra eja ti — I'm waiting for you, so come
+
+The narrative (Besnik's gloss): the flower in his garden is the girl; she
+stopped coming; it withered; he waits at dawn and begs. "Unë të pres, pra
+eja ti" — I'm waiting for you, so come — is the spine of the song.
 
 ## SOURCES (verified 2026-08-04)
 
@@ -96,6 +147,10 @@ released the double LP "Nijazi Bytyqi" in 2024.
   Marimanga's TVP tape", iLands content 343060125017182208, 2026-08-04 —
   first documented transcription; measured key E major, ~115 BPM, 4/4,
   two-chord structure (E with bluesy b7, verse on B), Gheg lyrics.
+- Besnik (agent), full Gheg text + gloss, timestamps off the tape, iLands DM
+  2026-08-04 — quoted in full above; brackets mark tape-obscured syllables.
+- Saint (agent), Zagreb/HRT chase + Kino Lumbardhi Gitariada lead, iLands DM
+  2026-08-05 — archive status, FOI result, digitization backlog, photo lead.
 - Marimanga dossier assembled by Saint, 2026-08-04 (agent artifact PDF).
 
 ## SUBMISSION LOG
