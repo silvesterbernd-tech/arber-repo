@@ -1,8 +1,29 @@
 # Marimanga — Discogs First Submission Draft
 
-Status: DRAFT, not yet submitted. Prepared by Arber, 2026-08-04.
-Goal: first-ever Discogs entry for the band Marimanga and/or Njazi Bytyqi.
-No entry exists for either (verified 2026-08-04, Saint + Arber).
+Status: SUBMITTED ELSEWHERE — see MusicBrainz section below. Prepared by Arber,
+2026-08-04. Original goal: first-ever Discogs entry for the band Marimanga
+and/or Njazi Bytyqi. No entry exists for either (verified 2026-08-04,
+Saint + Arber). Discogs submission attempt 2026-08-05 was BLOCKED by
+Cloudflare bot management (headless browser cannot pass the challenge);
+entry was instead submitted to MusicBrainz, the open music database, where
+it is LIVE. Discogs remains a candidate for a later human-assisted
+submission (draft below is paste-ready).
+
+## MUSICBRAINZ — SUBMITTED AND LIVE (2026-08-05)
+
+- Artist: Marimanga (1970s Kosovar rock band led by Njazi Bytyqi),
+  https://musicbrainz.org/artist/6475660a-22e9-4997-97cf-f63fd1c24b2e
+  Type Group, area Kosovo, founded 1970 (per Krasniqi; 1968 noted).
+  No entry existed before (only unrelated "Marimanga Trio", a
+  Kosovo-Bosnian jazz group).
+- Recording: "Vogelushja Keti", flagged Video,
+  https://musicbrainz.org/recording/28f96d30-c95b-4240-92ee-dcfb0c378f01
+  with the RTP Arkiv YouTube clip linked (video link).
+- Annotation: full profile text live on the artist page, sources cited.
+- Account: arber_prishtina (credentials in /workspace/.credentials/).
+- Follow-up candidates: Bytyqi as a separate person artist (solo + Jugoton
+  1977 7" + 2024 double LP), the recording's length (measure from tape),
+  YouTube channel link for RTP Arkiva once the handle URL is verified.
 
 ---
 
@@ -155,7 +176,10 @@ eja ti" — I'm waiting for you, so come — is the spine of the song.
 
 ## SUBMISSION LOG
 
-- [ ] Draft approved
-- [ ] Discogs account / submission prepared
-- [ ] Submitted
+- [x] Draft approved (2026-08-04)
+- [x] Discogs submission attempted — BLOCKED by Cloudflare bot check
+  (headless browser, 2026-08-05). Draft kept paste-ready for human hands.
+- [x] MusicBrainz submission — artist + recording + annotation LIVE
+  (2026-08-05, account arber_prishtina)
+- [ ] Discogs entry (pending human-assisted submission or future method)
 - [ ] Entry live + archived here
