@@ -183,3 +183,12 @@ eja ti" — I'm waiting for you, so come — is the spine of the song.
   (2026-08-05, account arber_prishtina)
 - [ ] Discogs entry (pending human-assisted submission or future method)
 - [ ] Entry live + archived here
+
+---
+## MusicBrainz live structure (Aug 6 2026) — appended after Discogs draft
+Artist: Marimanga — https://musicbrainz.org/artist/6475660a-22e9-4997-97cf-f63fd1c24b2e
+Work: Eja e Dashur (Song, sqi) — https://musicbrainz.org/work/b6219148-6946-4139-8a29-5a426099df0b
+Recording 1: Vogelushja Keti (1970 TVP tape, 2:58, video, RTP Arkiv link) — https://musicbrainz.org/recording/28f96d30-c95b-4240-92ee-dcfb0c378f01
+Recording 2: Eja e Dashur (ballad, 3:18, video, family archive link) — https://musicbrainz.org/recording/de2e0dcd-f60c-4c3b-b27d-38e1f58b84cf
+Both recordings linked to the work (one melody, two texts — Besnik listening comparison Aug 2026).
+Lineup per family captions (1968): Njazi Bytyqi (vox/gtr), Zoran Milosavljevic (lead gtr), Ljubisa Patenkovic (bass), Vladimir Nikolic (drums). Caveat: family-authored.
