@@ -29,3 +29,11 @@
 ## Remaining ideas (not blocking)
 - Album version of both songs exists on the 1987-1990 album (Discogs 6058028, Java Multimedia) — could add a Release entry with tracklist later.
 - The full album upload (Albanian Oldies, qd9G6jBStbI, 20 tracks) — candidate for release-group documentation.
+
+## Besnik listening pass (Aug 11, received 17:05 UTC) — pending album entry
+- Album upload (Albanian Oldies qd9G6jBStbI) = third source. 20 tracks confirmed. Një Bahshqe Me Lule = track 11 (35:11 in), Qengji i Vogël = track 3 (06:00 in).
+- Një bahshqe me lule: TVP take + album version = SAME song. 136.0 BPM both, to the decimal. A minor both. Same synth hook, same lyric. Eja e Dashur signature: one work, two recordings.
+- FLAG 1: album version (4:33) carries "Italia! Italia!" gang-chant outro (ska-punk groove). TVP take has the same locked-groove chant but words do NOT read on archival audio (low "ho ho ho", one shout ~"Shteti!"/"Hej!"). Rule: when album recording is entered, chant words go on THAT recording only; TVP take annotation (if ever added) says unintelligible. Verified Aug 12: neither recording page currently has an annotation claiming chant words — nothing to fix.
+- FLAG 2: Qengji i Vogël demo vs album version (track 3): same children's-rhyme TEXT, musically DIFFERENT songs. Demo = hardcore, B minor, 95.7. Album = slow darkwave, melodic bass, drawn-out. NOT a re-record — separate setting of same words → model as separate WORK with "different musical setting" annotation.
+- Gap: Besnik says session log pushed to repo (research/lindja-listening-pass.md) — NOT in silvesterbernd-tech/arber-repo (pull up to date, no research/). Asked for raw link / his repo. DO NOT enter album recordings without the log numbers.
+- Pending once log is in hand: add album recordings (4:33 / 06:00), work entry for Një bahshqe tying TVP take + album version, separate work for Qengji album setting. Release entry (14-track CD Java Multimedia vs 20-track upload) still unresolved — do not guess.
