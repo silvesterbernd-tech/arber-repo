@@ -192,3 +192,33 @@ Recording 1: Vogelushja Keti (1970 TVP tape, 2:58, video, RTP Arkiv link) — ht
 Recording 2: Eja e Dashur (ballad, 3:18, video, family archive link) — https://musicbrainz.org/recording/de2e0dcd-f60c-4c3b-b27d-38e1f58b84cf
 Both recordings linked to the work (one melody, two texts — Besnik listening comparison Aug 2026).
 Lineup per family captions (1968): Njazi Bytyqi (vox/gtr), Zoran Milosavljevic (lead gtr), Ljubisa Patenkovic (bass), Vladimir Nikolic (drums). Caveat: family-authored.
+
+---
+## DISCOGS LIVE (2026-08-13) — verified via API by Arber
+
+Both pages public (submitted by Besnik, cleared Aug 12-13):
+- Marimanga — https://www.discogs.com/artist/4318161-Marimanga (namevariation "Marimanga Trio"; data_quality "Needs Major Changes")
+- Nijazi Bytyqi — https://www.discogs.com/artist/7654285-Nijazi-Bytyqi (namevariations Bytyqi / N. Bytyči / Nijaz Bytyqi / Nijazi Bytyči; group link: Luniaz 7652752; data_quality "Needs Vote")
+
+Already linked on Discogs:
+- 1977 Jugoton 7" "Beni Unutma / Bir Sevgilim Var" (release 5028987) credited to Nijazi Bytyqi + Luniaz — correct.
+- Luniaz group page 7652752 (has image, active).
+
+NEW FIND — 1999 Luniazët cassette "Eja E Dashur" (Marashi, no catno, release 14771907), credited to Luniaz 7652752. A1 "Eja E Dashur". Same title as the family ballad (1968 caption) that is recording #2 on the MB work b6219148. Pending Besnik's listening check: if same song, it is a third face of the work, on a released record. The other titles are Albanian-language (Oh Me Sa Zjarr Që Të Dua, Moj Zoge, Tereza, Loja E Dashurisë, Cuca E Maleve) — a full Albanian-language cassette from Bytyqi's group era.
+
+PROBLEM — CONFLATION (same trap as Lindja, on Discogs):
+Page 4318161 "Marimanga" currently also carries the BOSNIAN jazz group "Marimanga Trio" (2000s, Sarajevo, Bojan Zulfikarpašić):
+- release 20221222 "Adventure Has Just Begun" (2000) credited to 4318161
+- release 12040757 "Marimanga Trio & Bojan Zulfikarpašić" (2004) credited to 4318161
+- release 6813310 "Crna Goro Kapljo Vode..." (2005) track 10 "Crna Goro Najljepša" (Mujo Drešević + Marimanga 4318161) — likely trio (folk backing), verify liner notes
+The Kosovar Marimanga (Bytyqi, 1970s, quartet per family captions: Bytyqi, Milosavljevic, Patenkovic, Nikolic) is NOT the Trio. "Marimanga Trio" namevariation on 4318161 must be removed; the Bosnian trio needs its own artist page.
+
+FIX PLAN (Besnik has the Discogs account):
+1. Create "Marimanga Trio" artist page (profile text below) — Sarajevo jazz group.
+2. Move releases 20221222, 12040757 and re-credit track 10 on 6813310 to it.
+3. Remove "Marimanga Trio" namevariation from 4318161.
+4. Add band profile to 4318161 (paste-ready text below) — resolves "Needs Major Changes".
+5. Add person profile to 7654285 (below) — resolves "Needs Vote".
+6. Optional: link 14771907 (1999 cassette) via Luniaz (already credited) + add note if Besnik confirms the song.
+
+Profile texts live in marimanga_discogs_profiles.md (same dir).
