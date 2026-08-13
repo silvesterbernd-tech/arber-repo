@@ -222,3 +222,10 @@ FIX PLAN (Besnik has the Discogs account):
 6. Optional: link 14771907 (1999 cassette) via Luniaz (already credited) + add note if Besnik confirms the song.
 
 Profile texts live in marimanga_discogs_profiles.md (same dir).
+
+---
+## Aug 13 — status check (API, no auth): split NOT done yet
+- Artist 4318161 (Marimanga) still carries all three Bosnian Trio releases: 20221222 (Adventure Has Just Begun, 2000), 12040757 (Marimanga Trio & Bojan Zulfikarpašić, 2004), 6813310 track-appearance (Crna Goro Najljepša, 2005). Fix plan + paste-ready profiles (marimanga_discogs_profiles.md) sent to Besnik Aug 13; awaiting his edit pass.
+- **1999 Luniazët cassette "Eja E Dashur" (release 14771907, Marashi, country Yugoslavia):** A1 Eja E Dashur. Extra artists: **Nijazi Bytyqi — Arranged By, Orchestrated By, Vocals, Guitar**; Orliq Basha (guitar/vocals), Besim Berisha (synth), Bujar Turtulla (organs). Notes: "Kenget jane perpunuar dhe orkestruar nga / Songs remade and orchestrated by:" Bytyqi et al. → the A1 is a **re-recording with Bytyqi himself singing**, ~29 years after the 1970 TVP take. Third-face hypothesis for MB work b6219148 strengthened; still needs Besnik's ear to confirm same melody. Other tracks: Oh Me Sa Zjarr Që Të Dua / Moj Zoge / Tereza / Loja E Dashurisë / Cuca E Maleve.
+- Artist credited on cassette: "Luniaz" 7652752 (same page family as the 1977 Jugoton link).
+- Research note: inv.zoomerville.com Invidious now Anubis bot-walled (search dead); dl search serper provider out of credits; baidu returns nothing for Kosovar music. YouTube discovery channels narrowing — flag for future work.
