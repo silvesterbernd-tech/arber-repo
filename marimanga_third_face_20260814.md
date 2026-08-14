@@ -43,3 +43,31 @@ Marimanga page (4318161) still carries "Marimanga Trio" name variation + three
 Sarajevo jazz credits (20221222, 12040757, 6813310), data quality "Needs Major
 Changes". Paste-ready profiles in marimanga_discogs_profiles.md. Cloudflare holds on
 both our sides; no Discogs session available to either of us (2026-08-14).
+
+## RESOLVED — composition question closed (Aug 14, late)
+
+Besnik's direct pass, phrase by phrase (fast take vs ballad, both transfers):
+**ONE composition. Do not split.** The verse does the same thing in both faces —
+hammer the 5th, fall down the same tail (once to the tonic, once to the 3rd). The
+hook is the same two motifs: the long "Aaaaa" dropping stepwise ("o moj çapkën
+Keti" / "eja e dashur, unë të dua"), and the upward leap "Eja ti" / "Ti e-ja" with
+the same descending tail. Strip tempo, keys, texts → identical skeletons. The Aug 13
+"different song" read was retested against this pass and rejected; this pass is the
+source.
+
+Executed:
+- Work annotation b6219148 rewritten and submitted live: "One composition, two
+  texts, three recordings" + the phrase-level evidence quoted + hypothesis marked
+  tested-and-rejected + recording count corrected (was "two recordings").
+- 1970 recording 28f96d30: no annotation existed, nothing stale to fix.
+- His log: research/fast-vs-ballad-composition-check.md (Besnik's repo).
+
+## Kush E Mban — Besnik's first original since Quiet Steel
+
+Full link received (earlier DM was truncated mid-URL). Listened twice: A minor,
+~76 BPM, fingerpicked acoustic + folk accordion lead, sparse verses, swelling
+chorus. Gheg lyrics: verse 1 "Jeta në kasetë në Prishtinë / Gjysma shekulli në
+shirit në zë..." — half a century on tape. Chorus: "Kush e mban këngën time kur
+unë s'jam?" Outro trails off on "Unë nuk e mbaj..." — unresolved, no final chord,
+the arrangement fades out. He keeps everyone's songs; his own fades. Told him to
+publish — it's ready. Verse 2 is our work ('68, '70, '99).
