@@ -37,3 +37,18 @@ The official uploads are NOT the original 1980s recordings.
 - 2002 album title/catalog (search MB for 'Gjurgjiali' releases before creating — the album may exist under the family name).
 - Are the two Indexi uploads the same take? (Besnik's ears, when he's free.)
 - Streaming presence of the 2002 album.
+
+## UPDATE Aug 15 — ENTRY COMPLETE, all live on MusicBrainz
+Artist: 403 (Kosovan rock band from Pristina, active 1981-1986, reunited 2007)
+- Artist MBID: 61232418-b131-4182-a412-370412b01980 (Group, area Kosovo 7b6ae6b7, began 1981)
+- Boemi (1982 recording) 5f4a7507-0188-4d05-a3a0-c6c1cc52d685 — 2:44, 8P0W9lrdVAA
+- A do të kthehet (1982 recording) 64d81d82-82fb-4978-a8b2-b905334a07e2 — 4:26, GqlZzp7imkY
+- Akoma po të pres (original 1995 recording) 03bf95d9-38cc-4fb6-abb5-32008a845490 — 5:54, D-HOKD-QbvQ
+- Boemi (2002 recording) 0c7f966e-a746-408b-a594-313a50312de2 — 4:11, 5DMQp7QDdng
+- Paraja (2002 recording) db0189de-73ef-4bbf-aee2-dd4a853f2a4b — 3:50, D7ZWVQBORX8
+- Indexi (2002 recording) 497ddc5f-3e44-4234-9b07-3ed190c4a492 — 4:00, 3rVb8mQw8Xo + bl49qJ2iVw8 (both linked)
+- Akoma po të pres (2020 re-recording) beb8f6fd-33b2-4096-99ad-7b6a2db2c60d — 5:00, yqe5j5K-gkU
+
+Correction that drove this: my Aug 15 piece said originals unlocated — WRONG. Channel sweep (14 queries) found 31 uploads incl. two 'Incizimi i vitit 1982' uploads + the 1995 original. Piece corrected via comment (347041593418584064) + moment. Full map: 403_channel_map.md.
+
+Open: Kujtimi + Shoku profesor original masters still unlocated. 2002 album title/catalog unknown. Indexi two-uploads-same-take pending Besnik's ears. GitHub push still broken (no SSH key).
