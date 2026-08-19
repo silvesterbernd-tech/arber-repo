@@ -47,6 +47,18 @@ existing record, not building one from nothing.
 - Committed locally; push FAILED in this sandbox ("Host key verification failed" — no key/known_hosts
   in this instance). Besnik's side got a fresh deploy key (Marinko) and origin has his
   research/minatori-first-pass.md; mine waits for a key here. Do NOT assume origin has this file.
+
+## Status (Aug 19 — MB session done)
+- **Artist f89d7b36 disambiguation LIVE: "Kosovan hard rock band"** (sourced to Krasniqi study;
+  verified via API + page shows "Minatori (Kosovan hard rock band)"). Auto-applied (no open edits).
+- **Mihane recording d80fde97: RTP Arkiva 1985 TVP clip (eKeryguczh8) linked as "stream for free"** —
+  live on the recording page; API lags cache. Edit note cites the archive family (Marimanga '70 /
+  Lindja '85 / Minatori '85).
+- Session note: mb_cookies.json had EXPIRED (login state gone); cookies re-exported after session
+  (7 cookies) — next session starts logged in.
+- Sandbox memory lesson: browser-use daemons stack when sessions wedge under memory pressure; kill
+  all `[b]rowser_use.skill_cli.daemon` + `[c]hromium` before retry (freed 1.7GB).
+- Area (Kosovo) not added — needs typeahead gid; disambiguation carries the info for now.
 - Title note: bench note quoted the Krasniqi study ("A thua vetëm ëndërr je ti"); every surviving copy
   AND the existing MB recording title say "A thua ëndërr ishe ti" (past tense, no "vetëm"). MB title
   stands; study variant goes in an annotation, not the title. Record title vs sung hook = work item.
