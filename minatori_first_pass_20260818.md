@@ -68,3 +68,28 @@ existing record, not building one from nothing.
   Re-open when a grab route exists.
 - 1985 clip channel: RTP Arkiva — same archive family as Marimanga 1970 + Lindja 1985 TVP takes.
 - America: one copy located by Besnik's probe (my first sweep missed it; query pollution). Verify next pass.
+
+## Status (Aug 19 — Discogs pass)
+
+**Minatori IS documented on Discogs** (artist 4882188, profile empty, no members listed) —
+three releases, all Kosovo, all on label Feniks:
+
+- 1994  Orgazmi Më Vjen Prej Syve Të Tillë      (cassette, rel 8113324)
+- 2000  Hitet më të mëdha                       (cassette, rel 21784480)
+- 2001  Njeriu i fundit ne planet...            (cassette, rel 25027588)
+
+**Trio status: 2 of 3 anchored to a real release.** "Hitet më të mëdha" (2000) carries
+A2 "A Thua Ëndërr Je Ti" and B1 "Mihane" — release anchors for both recordings, same
+family as the Lindja album-entry work. A1 "Molla Me Sherbet" matches the existing MB
+recording 4a19f558 — the comp coherently anchors at least three MB recordings.
+
+- Title note: Discogs lists "A Thua Ëndërr Je Ti" — NO "vetëm", consistent with the
+  MB title "A thua ëndërr ishe ti". The Krasniqi-study variant ("vetëm...") stays an
+  annotation, not a title. Three independent surfaces now agree on the sung title.
+- **America: NEGATIVE on Discogs.** Not on any of the three releases; tight search
+  ("Minatori Amerika") returns 0 items. Stays unlocated — verify via Besnik's probe
+  copy next pass (YouTube), not here.
+- Discogs artist page itself is bare (no profile, no members, no discography notes) —
+  a future first-submission candidate if we ever need to enrich it. Low priority;
+  the MB side is where findability lives.
+- API note: unauthenticated with UA header still works (verified Aug 19).
