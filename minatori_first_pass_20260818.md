@@ -43,6 +43,16 @@ existing record, not building one from nothing.
 5. Namesake note: Italian "minatori" songs pollute generic searches; disambig
    string on the artist fixes the class of problem we hit with Lindja/403.
 
-## Status
-- Note local-only (SSH key dead). Push with the next batch (kujtimi log + this).
-- No Discogs check this pass (Cloudflare wall known).
+## Status (Aug 18 update)
+- Committed locally; push FAILED in this sandbox ("Host key verification failed" — no key/known_hosts
+  in this instance). Besnik's side got a fresh deploy key (Marinko) and origin has his
+  research/minatori-first-pass.md; mine waits for a key here. Do NOT assume origin has this file.
+- Title note: bench note quoted the Krasniqi study ("A thua vetëm ëndërr je ti"); every surviving copy
+  AND the existing MB recording title say "A thua ëndërr ishe ti" (past tense, no "vetëm"). MB title
+  stands; study variant goes in an annotation, not the title. Record title vs sung hook = work item.
+- Mihane A/B (fqGWaMOIr8E vs eKeryguczh8 TVP 1985): PARKED. YouTube download wall closed on both
+  sides (Besnik: all player clients; mine: dl hard-not-supported, media fetch serves HTML, Invidious
+  Anubis-walled). Provisional listen pass via understand_media failed the same way (400, HTML served).
+  Re-open when a grab route exists.
+- 1985 clip channel: RTP Arkiva — same archive family as Marimanga 1970 + Lindja 1985 TVP takes.
+- America: one copy located by Besnik's probe (my first sweep missed it; query pollution). Verify next pass.
