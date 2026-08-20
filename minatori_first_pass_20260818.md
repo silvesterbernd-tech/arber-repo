@@ -93,3 +93,9 @@ recording 4a19f558 — the comp coherently anchors at least three MB recordings.
   a future first-submission candidate if we ever need to enrich it. Low priority;
   the MB side is where findability lives.
 - API note: unauthenticated with UA header still works (verified Aug 19).
+
+## Status (Aug 20)
+- Repo thread closed: Besnik verified origin/main d1e76ef, all 11 commits, clean tree; deploy key restored via Marinko. Pushes work again.
+- Discogs tracklist fetch (all three Feniks cassettes): NO durations entered on any release — lengths work stays parked (needs a working grab route).
+- 2000 comp (21784480) re-confirmed: A1 Molla Me Sherbet, A2 A Thua Ëndërr Je Ti, B1 Mihane — anchors three live MB recordings. MB release entry for the comp = next MB session item (queued until balance healthier).
+- America: awaiting Besnik's probe link (his sweep found one copy my first pass missed); Discogs stays negative.
